@@ -33,7 +33,7 @@ body:
       label: Include steps to reproduce
       description: What steps did you take for the error to occur?
       placeholder: Step 1 
-      value: "1. I clicked on ../n2. Then I typed ..\n3. [Error of ... occured]"
+      value: "1. I clicked on ..\n2. Then I typed ..\n3. [Error of ... occured]"
     validations:
       required: true
   - type: textarea
